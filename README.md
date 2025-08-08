@@ -248,7 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <img src="main/assets/logo.png" alt="Kidou Logo" width="60" height="60">
+  <img src="https://embodyai.co.jp/images/logo.svg" alt="Kidou Logo" width="60" height="60">
   <br>
   <strong>Built with ❤️ by the Kidou Team</strong>
   <br>
